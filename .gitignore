@@ -1,0 +1,15 @@
+# Folders
+.vscode/
+data/
+__pycache__/
+
+
+# Files
+.DS_Store
+.remote-sync.json
+*.py[cod]
+*$py.class
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
